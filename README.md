@@ -1,39 +1,37 @@
-<h1 align="center">Hi 👋, I'm Raj Ranjan Srivastav</h1>
-<p align="center">🚀 Frontend Engineer | Angular • React • Next.js | Building Scalable Web Apps</p>
+<h1 align="center">Raj Ranjan Srivastav</h1>
 
 <p align="center">
-  <a href="https://github.com/RajRanjanSrivastav">
-    <img src="https://komarev.com/ghpvc/?username=RajRanjanSrivastav&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Angular+%7C+React+%7C+Next.js;Scalable+Web+Applications;Clean+Architecture+%7C+Performance+Focused" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RajRanjanSrivastav">GitHub</a> •
+  <a href="https://linkedin.com/in/raj-ranjan-srivastav-40067b1b7">LinkedIn</a> •
+  <a href="mailto:srivastavrajranjan75@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Summary
 
-- 💻 Frontend Developer specializing in **Angular, React, Next.js & modern JavaScript (TypeScript)**
-- ⚡ Focused on **performance, scalability, and clean architecture**
-- 🔄 Strong with **RxJS, API design/integration, reactive patterns**
-- 🧩 I build **modular, maintainable, production-grade applications**
-- 🎯 Currently leveling up in **system design & advanced frontend architecture**
+Frontend Engineer focused on building **scalable, high-performance web applications** with strong emphasis on **clean architecture, maintainability, and developer experience**.
+
+- Specialized in **Angular, React, Next.js, TypeScript**
+- Strong experience with **RxJS, async flows, and state handling**
+- Build systems that scale across **features, teams, and products**
+- Focused on **performance optimization & long-term code quality**
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap,scss" />
-</p>
-
-### 🛠️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap,scss,nodejs,prisma,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajRanjanSrivastav&show_icons=true&theme=github_dark&hide_border=true" />
@@ -44,40 +42,43 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajRanjanSrivastav&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajRanjanSrivastav&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Selected Work
 
-🔹 **Archive Project**  
-> Cloud storage–like system (Drive/OneDrive inspired) built with **React, Node.js, Prisma, TailwindCSS**.  
-> 👉 Add your repo link here
-
-🔹 **Mitigation Portal**  
-> Enterprise-level application (office project) built with **Angular**, focusing on modular architecture and performance.
-
-🔹 **Add One More Strong Project**  
-> (Authentication system / dashboard / scalable architecture demo)
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/RajRanjanSrivastav">GitHub</a> •
-  <a href="https://linkedin.com/in/raj-ranjan-srivastav-40067b1b7">LinkedIn</a> •
-  <a href="mailto:srivastavrajranjan75@gmail.com">Email</a>
+<p align="center">
+  <a href="YOUR_ARCHIVE_REPO_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajRanjanSrivastav&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
+### 🔹 Archive System (Drive-like Platform)
+**Stack:** React, Node.js, Prisma, TailwindCSS  
+
+- Designed a scalable file storage system inspired by cloud platforms  
+- Implemented structured backend with clean API layering  
+- Focused on performance, modular design, and maintainability  
+
 ---
 
-## 🧠 Engineering Mindset
+### 🔹 Mitigation Portal (Enterprise Application)
+**Stack:** Angular  
+
+- Built production-grade modules in a large-scale application  
+- Improved maintainability and performance of complex UI flows  
+- Followed modular and scalable architecture practices  
+
+---
+
+## 🧠 Engineering Principles
 
 ```ts
 const engineer = {
-  code: ["clean", "scalable", "maintainable"],
-  architecture: ["modular", "reusable", "efficient"],
-  focus: "long-term quality over quick fixes"
+  philosophy: "Build for scale, not just for now",
+  code: ["clean", "readable", "maintainable"],
+  architecture: ["modular", "decoupled", "scalable"],
+  performance: "Measure → analyze → optimize",
 };
