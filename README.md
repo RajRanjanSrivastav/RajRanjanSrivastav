@@ -41,10 +41,6 @@ Frontend Engineer focused on building **scalable, high-performance web applicati
   <img src="https://streak-stats.demolab.com?user=RajRanjanSrivastav&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajRanjanSrivastav&theme=github-dark&hide_border=true&area=true" />
-</p>
-
 ---
 
 ## 🧩 Selected Work
